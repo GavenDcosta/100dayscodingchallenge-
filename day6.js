@@ -14,8 +14,8 @@ add.addEventListener('click', function(){
 save.addEventListener('click', function(){
     var para = document.createElement('p')
     para.classList.add('para')
-    para.textContent = JSON.stringify(localStorage.getItem("Name"))
-    list = list.appendChild(para)
+    para.innerText = JSON.stringify(localStorage.getItem("Name"))
+    list.appendChild(para)
 
     para.addEventListener('click', function(){
         para.style.textDecoration = 'line-through';
@@ -23,13 +23,19 @@ save.addEventListener('click', function(){
         para.addEventListener('click', function(){
             para.style.textDecoration = ""
 
-            para.addEventListener('dblclick', function(){
-                list.removeChild(para);     
-             })
-           
-        })
+        }) 
     })
-  })
+
+          
+    para.addEventListener('dblclick', function(){
+         list.removeChild(para);     
+    })         
+            
+})
+           
+        
+    
+
 
 
     //para.addEventListener('click', function(){If(para.style.textDecoration = "")
