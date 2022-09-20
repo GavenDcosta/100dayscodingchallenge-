@@ -9,4 +9,6 @@ Day 4: i took text from user and printed it in text area and also allowed the us
 
 Day 5: I took key and value pair from user and stored in localStorage, show it on dom on clicking show and clear localStorage on clicking clear
 
-Day 6: I made a ToDo list 
+Day 6: I made a ToDo list https://teddygaven.github.io/ToDo-list/day6.html
+
+Day 7: I used audio tag in html 
