@@ -12,3 +12,5 @@ Day 5: I took key and value pair from user and stored in localStorage, show it o
 Day 6: I made a ToDo list https://teddygaven.github.io/ToDo-list/day6.html
 
 Day 7: I used audio tag in html 
+
+Day 8: HTML code for downloading a file
