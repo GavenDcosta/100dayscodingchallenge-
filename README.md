@@ -16,3 +16,5 @@ Day 7: I used audio tag in html
 Day 8: HTML code for downloading a file
 
 Day9: code to open and close a modal
+
+Day10: Working on a simple music website
