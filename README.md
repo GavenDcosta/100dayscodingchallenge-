@@ -18,3 +18,6 @@ Day 8: HTML code for downloading a file
 Day9: code to open and close a modal
 
 Day10: Working on a simple music website
+
+Day 11: I couldn't do much work today due to dept day sports ..I did some improvements in my website and now u can open it on your mobile devices
+https://teddygaven.github.io/Musicia/musicia.html 
