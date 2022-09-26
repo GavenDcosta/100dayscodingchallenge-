@@ -23,3 +23,5 @@ Day 11: I couldn't do much work today due to dept day sports ..I did some improv
 https://teddygaven.github.io/Musicia/musicia.html 
 
 Day 12: I made a Datalist search bar 
+
+DAy 13: I made a search bar website (if u type anything in the website it will take you to yahoo.com and show the results)
