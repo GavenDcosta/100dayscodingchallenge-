@@ -27,3 +27,5 @@ Day 12: I made a Datalist search bar
 DAy 13: I made a search bar website (if u type anything in the website it will take you to yahoo.com and show the results)
 
 Day 14: I wrote a code to show template
+
+Day 15: I made a Digital clock
