@@ -29,3 +29,5 @@ DAy 13: I made a search bar website (if u type anything in the website it will t
 Day 14: I wrote a code to show template
 
 Day 15: I made a Digital clock
+
+Day 16: I made a navigation bar 
