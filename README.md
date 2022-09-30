@@ -31,3 +31,5 @@ Day 14: I wrote a code to show template
 Day 15: I made a Digital clock
 
 Day 16: I made a navigation bar 
+
+Day 17: I clipped an image to a text
