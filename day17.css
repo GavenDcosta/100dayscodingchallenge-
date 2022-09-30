@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    
+    justify-content: center;
+    top: 50%;
+    left: 50%;
+    font-size: 300px;
+    background-image: url(luffy.jpg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
