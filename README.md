@@ -33,3 +33,5 @@ Day 15: I made a Digital clock
 Day 16: I made a navigation bar 
 
 Day 17: I clipped an image to a text
+
+Day 18: Code which changes background image continuously
