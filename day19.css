@@ -1,0 +1,23 @@
+.con1{
+    top: 50%;
+    left: 25%;
+    height: 300px;
+    padding: 50px;
+}
+
+.con2{
+    top: 50%;
+    left: 25%;
+    height: 300px;
+    padding: 50px;
+}
+
+.con1:hover{
+    background-image: url(mike.jpg);
+    background-size: cover;
+}
+
+.con2:hover{
+    background-image: url(ali.jpg);
+    background-size: cover;
+}
