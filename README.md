@@ -37,3 +37,5 @@ Day 17: I clipped an image to a text
 Day 18: Code which changes background image continuously
 
 Day 19: Background image on hover
+
+Day 20: I wrote a code that notifies the user
