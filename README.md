@@ -39,3 +39,5 @@ Day 18: Code which changes background image continuously
 Day 19: Background image on hover
 
 Day 20: I wrote a code that notifies the user
+
+Day 21: I wrote a code which will take value from the user and will print Even or Odd in the textarea
