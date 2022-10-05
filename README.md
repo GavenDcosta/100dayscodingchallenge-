@@ -40,4 +40,6 @@ Day 19: Background image on hover
 
 Day 20: I wrote a code that notifies the user
 
-Day 21: I wrote a code which will take value from the user and will print Even or Odd in the textarea
+Day 21: I wrote a JS code which will take value from the user and will print Even or Odd in the textarea
+
+Day 22: I wrote a JS code which wwill take value from the user and will print its Factorial in the text area
