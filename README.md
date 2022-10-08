@@ -47,3 +47,5 @@ Day 22: I wrote a JS code which will take value from the user and will print its
 Day 23: Change the background on clicking button
 
 Day 24: I took the date of birth from the user and calculated his/her age
+
+Day 25: I took the weight of the user in kg and converted it to lbs
