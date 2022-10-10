@@ -54,3 +54,5 @@ Day 24: I took the date of birth from the user and calculated his/her age
 Day 25: I took the weight of the user in kg and converted it to lbs
 
 Day 26: I took the year from the user and printed whether it is a leap year or not in the text area
+
+Day 27: I learned how to use  windows.history.back() in JS
