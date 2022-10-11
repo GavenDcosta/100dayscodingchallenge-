@@ -56,3 +56,5 @@ Day 25: I took the weight of the user in kg and converted it to lbs
 Day 26: I took the year from the user and printed whether it is a leap year or not in the text area
 
 Day 27: I learned how to use  windows.history.back() in JS
+
+Day 28: I wrote a JS code which will take 2 numbers from the user and print the largest one in textarea
