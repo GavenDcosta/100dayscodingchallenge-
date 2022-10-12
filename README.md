@@ -58,3 +58,5 @@ Day 26: I took the year from the user and printed whether it is a leap year or n
 Day 27: I learned how to use  windows.history.back() in JS
 
 Day 28: I wrote a JS code which will take 2 numbers from the user and print the largest one in textarea
+
+Day 29: I wrote a code which will take the no of pushups done from the user and return the amount of calories burned
