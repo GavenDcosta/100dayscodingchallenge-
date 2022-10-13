@@ -1,0 +1,19 @@
+#btn1:hover{
+      cursor: crosshair;
+}
+
+#btn2:hover{
+    cursor: all-scroll;
+}
+
+#btn3:hover{
+    cursor: no-drop;
+}
+
+#btn4:hover{
+    cursor: help;
+}
+
+#btn5:hover{
+    cursor: wait;
+}
