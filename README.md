@@ -64,3 +64,5 @@ Day 29: I wrote a code which will take the no of pushups done from the user and 
 Day 30: I learned how to use custom cursors
 
 Day 31: I wrote a js code to print the day of the week using SWITCH CASE
+
+Day 32: I wrote a js code to change text decoration on clicking button
