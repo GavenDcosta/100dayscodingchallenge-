@@ -72,3 +72,5 @@ Day 33:I learned to use alert(), prompt() and confirm()
 Day 34: I wrote a code in which on clicking the buttons a anime character will appear in the div (you will find the char pics that i used in this repo)
 
 Day 35: I wrote a code which will take input from user and then add it and later find the square of the added number
+
+Day 36: I wrote a JS code which will take input from the user, subtract it, and then tell if the subtracted number is even or odd 
