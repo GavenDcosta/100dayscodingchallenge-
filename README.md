@@ -74,3 +74,5 @@ Day 34: I wrote a code in which on clicking the buttons a anime character will a
 Day 35: I wrote a code which will take input from user and then add it and later find the square of the added number
 
 Day 36: I wrote a JS code which will take input from the user, subtract it, and then tell if the subtracted number is even or odd 
+
+Day 37: I wrote a js code which will take value from the user , multiply it and then change the background colour according to the size of the number 
