@@ -1,0 +1,37 @@
+.parent{
+    background-color: red;
+    height: 400px;
+    width:400px;
+    position: absolute;
+    transform: rotate(75deg);
+    top: 30%;
+    left: 30%;
+}
+
+.child{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    position: inherit;
+    /*transition: transform 1s ease-in-out;*/
+    transition: transform 1s cubic-bezier(0.69, -0.05, 0.01, 1.32);
+}
+
+.chil{
+    background-color: rgb(98, 0, 255);
+    height: 250px;
+    width: 250px;
+    position: inherit;
+    /*transition: transform 1s ease-in-out;*/
+    transition: transform 1s cubic-bezier(0.69, -0.05, 0.01, 1.32);
+}
+
+.parent:hover .child{
+    background-color: cadetblue;
+    transform: translateX(300%);
+}
+
+.parent:hover .chil{
+    background-color: rgb(145, 160, 95);
+    transform: translateY(100%);
+}
