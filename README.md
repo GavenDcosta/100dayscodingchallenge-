@@ -82,3 +82,5 @@ Day 38: I wrote a JS code which will take 2 values from the user , divide them a
 Day 39: I learned the transform and transition property in css and wrote a code 
 
 Day 40: I made a form which will take name and colour from the user, store it in local storage, print it in textarea and also change the background colour to the colour entered by the user
+
+Day 41: I learned Objects in js
