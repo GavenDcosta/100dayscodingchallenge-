@@ -2,12 +2,14 @@ header{
     display: flex;
     font-size: 20px;
     align-items: center;
-    background-color: aquamarine;
+    background-color: rgb(6, 15, 15);
     width: 100%;
     height: 100px;
     margin: 0px;
     border: 0px;
+    justify-content: end;
   }
+
   
 nav{
     display: inline-block;
@@ -18,54 +20,174 @@ nav{
     width: 100%;
 }
 
+#extras{
+  display: inline-block;
+}
+
 #home{ 
-    color: #17083f;
+    color: #ffffff;
     padding: 40.2px 80px;   
   }
 
+  #down{ 
+    color: #ffffff;
+    padding: 40.2px 80px;   
+  }
+
+.btn2{
+   padding: 80px;
+   
+}
+
 a:hover{
-    background-color: darkgreen;
+    background-color: rgb(126, 223, 255);
     cursor: pointer;
+}
+
+#link{
+  height: 200spx;
+  width: 400px;
+  background-color: aquamarine;
+  margin-right: 100px;
+  margin-top: 100px;
+  border-radius: 40px;
+}  
+
+#show{
+  margin-left: 10%;
+}
+
+#foot{
+  height: 500px;
+  width: 400px;
+  background-color: aquamarine;
+  margin-right: 100px;
+  margin-top: 100px;
+  border-radius: 40px;
+}
+h2{
+  color: blue;
+}
+
+#Msg{
+  color: red;
+}
+
+#fot{
+  margin-top: 20px;
+  margin-left: 17px;
+}
+
+#shows{
+  height: 500px;
+  width: 400px;
+  background-color: aquamarine;
+  margin-right: 100px;
+  margin-top: 100px;
+  border-radius: 40px;
+}  
+
+#west{
+  color: blue;
+  margin-left: 30px;
+}
+
+#inst{
+  color: blue;
+  margin-left: 30px;
+}
+
+#anime{
+  color: blue;
+  margin-left: 30px;
+}
+
+.links{
+  font-size: 20px;
+  padding-top: 30px;
+  color: blue;
+}
+
+#kai{
+  border-radius: 50%;
+}
+
+#intro{
+  height: 500px;
+  width: 400px;
+  background-color: aquamarine;
+  margin-right: 100px;
+  margin-top: 100px;
+  border-radius: 40px;
 }
 
 img#bgimg{
   height:auto;
-  width: 300%;
+  width: 100%;
   border-style: none;
-  
 }
 
-#mid{
+#beta{
+  margin-left: 50%;
+}
+
+#alpha{
   position: absolute;
+  display: flex;
+  justify-content:flex-end;
+  margin-left: 100px;
 }
 
 body{
   margin: 0px;
+  background-color: black;
 }
 
-header{
-  justify-content: flex-end;
+h1{
+  font-size: 30px;
+  color: blue;
+  margin-left: 125px;
+  margin-top: 20px;
 }
 
+.pant{
+  margin-left: 120px;
+  font-size: 50px;
+  color: firebrick;
+}
 
-#mid{
-  padding-left: 43%;
+h4{
+  margin-left: 45px;
+  font-size: 20px;
+  color: blue;
+}  
+
+#lmid{
+   justify-content: end;
+   margin-left: 80px
+}
+
+h5{
+  font-size: 20px;
+  margin-left: 35px;
+  color: blue;
+}
+
+#fmid{
+  margin-left: 150px
 }
 
 p{
-  color: aliceblue;
-  font-size: 40px;
+  color: rgb(231, 231, 231);
+  font-size: 30px;
 }
 
-@media (min-width: 200px) and (max-width: 500px){
+@media (min-width: 200px) and (max-width: 400px){
 
   body{
-    background-color: linear-gradient(422 0 23);
+    background-color: Black
   }
 
-  #mid{
-    padding-left: 0;
-  }
 
   p{
     font-size: 20px;
@@ -79,11 +201,27 @@ p{
   header{
    width:100%;
    font-size: 10px;
-   background-color: aqua
+   background-color: rgb(6, 15, 15);
   }
 
   body{
     background-image: linear-gradient(to right ,rgb(26, 66, 247), rgb(111, 251, 111));
+  }
+
+  #media{
+    display: inline-block;
+  }
+
+  #alpha{
+    display: inline-block;
+  }
+
+  #lmid{
+    justify-content: center;
+  }
+
+  #fmid{
+    justify-content: center;
   }
 
 }
