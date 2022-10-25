@@ -84,3 +84,5 @@ Day 39: I learned the transform and transition property in css and wrote a code
 Day 40: I made a form which will take name and colour from the user, store it in local storage, print it in textarea and also change the background colour to the colour entered by the user
 
 Day 41: I learned Objects in js , I also made many improvements in My music website(Day 11)
+
+Day 42: I made a Calculator using Js..I also made it responsive for mobile devices    https://teddygaven.github.io/Js-Calculator/day42.html
