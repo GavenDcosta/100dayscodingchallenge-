@@ -22,7 +22,7 @@ Day9: code to open and close a modal
 
 Day10: Working on a simple music website
 
-Day 11: I couldn't do much work today due to dept day sports ..I did some improvements in my website 
+Day 11: I couldn't do much work today due to dept day sports ..I did some improvements in my website (not yet responsive for all devices)
 https://teddygaven.github.io/Musicia/musicia.html 
 
 Day 12: I made a Datalist search bar 
