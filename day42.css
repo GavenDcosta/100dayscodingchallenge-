@@ -1,0 +1,189 @@
+#main{
+    position: absolute;
+    width: 230px;
+    height: 450px;
+    background-color: rgb(0, 0, 0);
+    top: 20%; 
+    left: 45%;
+    border-radius: 20px;  
+}
+
+#submain{
+    display: inline-block;
+}
+
+#btn1{
+    width: 40px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#btn5{
+    width: 40px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#btn16{
+    width: 40px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#btn9{
+    width: 40px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+
+#btn2{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+#btn3{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+#btn4{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+button{
+    background-color: rgb(71, 73, 82);
+    color: aliceblue;
+    font-weight: 100;
+    font-size: large;
+    border-radius: 100%;
+    border: 2px solid white;
+}
+
+#btn6{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+#btn7{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+#btn8{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+#btn10{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+
+#btn11{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+#btn12{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+#btn13{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+#btn14{
+    margin-left: 20px;
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 50px;
+}    
+   
+#btn15{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}    
+
+#btn17{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}    
+
+#btn18{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}    
+
+#btn19{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+}    
+
+#screen{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(230, 219, 219);
+    justify-content: center;
+    margin-left: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#row1{
+    display: flex;
+    padding: 10px;
+}
+#row2{
+    display: flex;
+    padding : 10px;
+}
+
+#row3{
+    display: flex;
+    padding: 10px;
+}
+
+#row4{
+    display: flex;
+    padding: 10px;
+}
+
+
+#row5{
+    display: flex;
+    padding: 10px;
+}
+
+@media (min-width: 200px) and (max-width: 500px){
+
+    #main{
+       position: absolute;
+       justify-content: flex-start;
+       left: 10%;
+       top: 10%;
+    }
+
+
+}
