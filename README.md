@@ -86,3 +86,5 @@ Day 40: I made a form which will take name and colour from the user, store it in
 Day 41: I learned Objects in js , I also made many improvements in My music website(Day 11)
 
 Day 42: I made a Calculator using Js..I also made it responsive for mobile devices    https://teddygaven.github.io/Js-Calculator/day42.html
+
+Day 43: I started learning react and wrote my first react code 
