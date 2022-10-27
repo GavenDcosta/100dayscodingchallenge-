@@ -87,4 +87,4 @@ Day 41: I learned Objects in js , I also made many improvements in My music webs
 
 Day 42: I made a Calculator using Js..I also made it responsive for mobile devices    https://teddygaven.github.io/Js-Calculator/day42.html
 
-Day 43: I started learning react and wrote my first react code 
+Day 43: I started learning react and wrote my first react code ...I also learned to use functions in react 
