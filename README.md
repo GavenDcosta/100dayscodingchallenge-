@@ -91,4 +91,4 @@ Day 43: I started learning react and wrote my first react code ...I also learned
 
 Day 44: I learned more ways of writing react, I also learned to declare the html in variables 
 
-Day 45:I learned the methods to render elements in react and made a simple static webpage using react
+Day 45: I learned the methods to render elements in react and made a simple static webpage using react
