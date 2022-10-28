@@ -90,3 +90,5 @@ Day 42: I made a Calculator using Js..I also made it responsive for mobile devic
 Day 43: I started learning react and wrote my first react code ...I also learned to use functions in react 
 
 Day 44: I learned more ways of writing react, I also learned to declare the html in variables 
+
+Day 45:I learned the methods to render elements in react and made a simple static webpage using react
