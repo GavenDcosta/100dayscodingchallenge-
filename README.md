@@ -94,3 +94,5 @@ Day 44: I learned more ways of writing react, I also learned to declare the html
 Day 45: I learned the methods to render elements in react and made a simple static webpage using react
 
 Day 46: I wrote a small react code 
+
+Day 47: I learned to use multiple div elements in react
