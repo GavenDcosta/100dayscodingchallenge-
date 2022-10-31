@@ -96,3 +96,5 @@ Day 45: I learned the methods to render elements in react and made a simple stat
 Day 46: I wrote a small react code 
 
 Day 47: I learned to use multiple div elements in react
+
+Day 48: I made a form using react
