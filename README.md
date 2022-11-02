@@ -100,3 +100,5 @@ Day 47: I learned to use multiple div elements in react
 Day 48: I made a form using react
 
 Day 49: I made a small webpage using functions in react
+
+Day 50: I wrote a react code using all the ways of rendering the elements that ive learned so far
