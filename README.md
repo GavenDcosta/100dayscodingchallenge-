@@ -102,3 +102,5 @@ Day 48: I made a form using react
 Day 49: I made a small webpage using functions in react
 
 Day 50: I wrote a react code using all the ways of rendering the elements that ive learned so far
+
+Day 51: I learnt about the parent and child components in react 
