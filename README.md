@@ -104,3 +104,5 @@ Day 49: I made a small webpage using functions in react
 Day 50: I wrote a react code using all the ways of rendering the elements that ive learned so far
 
 Day 51: I learnt about the parent and child components in react 
+
+Day 52: I learned to add CSS in react
