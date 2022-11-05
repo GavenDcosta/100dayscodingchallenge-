@@ -106,3 +106,5 @@ Day 50: I wrote a react code using all the ways of rendering the elements that i
 Day 51: I learnt about the parent and child components in react 
 
 Day 52: I learned to add CSS in react
+
+Day 53: I learned about components in react
