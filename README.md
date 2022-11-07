@@ -110,3 +110,5 @@ Day 52: I learned to add CSS in react
 Day 53: I learned about components in react
 
 Day 54: I learnt about the target element and also about various types of Events in JavaScript
+
+Day 55: I learnt how to import multiple components
