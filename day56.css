@@ -1,0 +1,58 @@
+header{
+    background-color: rgb(15, 15, 15);
+    width: auto;
+    height: 60px;
+    display: flex;
+}
+
+h2{
+    margin-left: 40px;
+    color: white;
+}
+
+img{
+    height: 50px;
+    width: auto;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+body{
+    background-color: rgb(33, 31, 31); 
+    background-image: url(react.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 75%;
+    background-position: right 75%;
+}
+
+nav{
+     justify-content: flex-end;
+     position: absolute;
+     margin-left: 500px;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+}
+
+section{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+li::marker{
+    color: aqua;
+    font-size: 30px;
+}
+ul{
+    color: white;
+    font-size: 20px;    
+}
+
+
+
