@@ -113,4 +113,4 @@ Day 54: I learnt about the target element and also about various types of Events
 
 Day 55: I learnt how to import multiple components
 
-Day 56: Made a Simple Webpage
+Day 56: Made a Simple Webpage using React
