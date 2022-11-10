@@ -116,3 +116,5 @@ Day 55: I learnt how to import multiple components
 Day 56: Made a Simple Webpage using React
 
 Day 57: Wrote a Simple Stack program in C using arrays
+
+Day 58: I learnt about the various types of input tags in html
