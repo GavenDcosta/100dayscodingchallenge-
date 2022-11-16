@@ -128,3 +128,5 @@ Dayn 61: Made a simple webpage using React
 Day 62: Made some changes in yesterdays code and also learnt about objects in React
 
 Day 63: I learnt about Props in React 
+
+Day 64: I learnt another way of using Props in React
