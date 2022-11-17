@@ -131,4 +131,4 @@ Day 63: I learnt about Props in React
 
 Day 64: I learnt another way of using Props in React
 
-Day 65: i wrote a small Js code to add validations in a input 
+Day 65: I wrote a small Js code to add validations in a input 
