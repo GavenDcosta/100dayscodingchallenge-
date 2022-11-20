@@ -136,3 +136,5 @@ Day 65: I wrote a small Js code to add validations in a input
 Day 66: C code for searching an element in an array
 
 Day 67: C code for finding the greatest of 3 nos using nested if else
+
+DAy 68: C code to find if a no is odd or even
