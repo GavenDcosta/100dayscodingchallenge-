@@ -137,4 +137,6 @@ Day 66: C code for searching an element in an array
 
 Day 67: C code for finding the greatest of 3 nos using nested if else
 
-DAy 68: C code to find if a no is odd or even
+Day 68: C code to find if a no is odd or even
+
+Day 69: C code for calculating age (my exams have started so will be entering only small codes for 2 weeks)
