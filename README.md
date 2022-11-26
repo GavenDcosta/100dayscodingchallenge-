@@ -146,3 +146,5 @@ Day 70: Switch case in C
 Day 71: Implementation of circular queue in C
 
 Day 72: C code to find if a year is leap yr or no 
+
+Day 73: C code to find factorial
