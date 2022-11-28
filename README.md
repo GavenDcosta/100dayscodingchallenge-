@@ -150,3 +150,5 @@ Day 72: C code to find if a year is leap yr or no
 Day 73: C code to find factorial
 
 Day 74: Implementation of stack using Linked lists 
+
+Day 75: C program for linear search 
