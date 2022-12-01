@@ -156,3 +156,5 @@ Day 75: C program for linear search
 Day 76: C program to find greatest of 2 nos and then find if the greatest no is even or odd using functions
 
 Day 77: Made a header file for performing simple arithmatic operations
+
+Day 78: C code to find average of marks
