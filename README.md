@@ -161,3 +161,5 @@ Day 78: C code to find average of marks
 
 Day 79: Revised the concept of props in React
 
+Day 80: Wrote a React code
+
