@@ -161,5 +161,7 @@ Day 78: C code to find average of marks
 
 Day 79: Revised the concept of props in React
 
-Day 80: Wrote a React code
+Day 80: Wrote a React code for a music component template
+
+Day 81: Made a Website Home Page Template using props in React 
 
