@@ -165,3 +165,5 @@ Day 80: Wrote a React code for a music component template
 
 Day 81: Made a Website Home Page Template using props in React 
 
+Day 82: Learnt More new things in React(all of it is there in day82.js)
+
