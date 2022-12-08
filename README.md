@@ -170,3 +170,6 @@ Day 82: Learnt More new things in React(all of it is there in day82.js)
 Day 83: Wrote a React code using const  
 
 Day 84: Learnt about Map, Filter, Reduce, Classes, Methods, Closures, Constructors, 'this'  in Javascript
+
+Day 85: Learnt about Promises, Async and Await in Javascript
+
