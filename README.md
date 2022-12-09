@@ -173,3 +173,5 @@ Day 84: Learnt about Map, Filter, Reduce, Classes, Methods, Closures, Constructo
 
 Day 85: Learnt about Promises, Async and Await in Javascript
 
+Day 86: Learnt about Static,Inheritance,Super,Getters,Setters,Instance of operators,Callbacks in Javascript
+
