@@ -175,3 +175,4 @@ Day 85: Learnt about Promises, Async and Await in Javascript
 
 Day 86: Learnt about Static, Inheritance, Super, Getters, Setters, Instance of operators, Callbacks in Javascript
 
+Day 87: Learnt about browser Object Model(BOM) in Javascript
