@@ -178,3 +178,5 @@ Day 86: Learnt about Static, Inheritance, Super, Getters, Setters, Instance of o
 Day 87: Learnt about Browser Object Model(BOM) in Javascript
 
 Day 88: Learnt about cookies and GetLocation API in Javascript
+
+Day 89: Learnt about WEB forms API in Javascript
