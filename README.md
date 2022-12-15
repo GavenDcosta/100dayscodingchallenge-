@@ -184,3 +184,5 @@ Day 89: Learnt about WEB forms API in Javascript
 Day 90: Learnt about the WEB workers API in Javascript
 
 Day 91: Python code to find Greatest of 3 numbers and then find if the greatest number is Odd or Even using functions
+
+Day 92: Python code to find the factorial of a number , also started working on a new repository(Fitness-Website)
