@@ -188,3 +188,6 @@ Day 91: Python code to find Greatest of 3 numbers and then find if the greatest 
 Day 92: Python code to find the factorial of a number , also started working on a new repository(Fitness-Website)
 
 Day 93: Completed my Website: https://teddygaven.github.io/Fitness-Website/home.html
+
+Day 94: Python code to find if a yr is leap yr or no , also started working on a new practice website
+
