@@ -192,3 +192,5 @@ Day 93: Completed my Website: https://teddygaven.github.io/Fitness-Website/home.
 Day 94: Python code to find if a yr is leap yr or no , also started working on a new practice website
 
 Day 95: Learnt how to start a react project and made a small project 
+
+Day 96: Started Making a Music-Website using React
