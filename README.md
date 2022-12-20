@@ -1,4 +1,4 @@
-Se# 100dayscodingchallenge- 
+# 100dayscodingchallenge- 
 
 Aim of doing this challenge is to learn JavaScript and React 
 
@@ -195,5 +195,6 @@ Day 95: Learnt how to start a react project and made a small project
 
 Day 96: Started Making a Music-Website using React
 
-Day 97: Made more progress in my website 
+Day 97: Made more progress in my website, it is a website containing Western classical music and anime songs 
+
 
