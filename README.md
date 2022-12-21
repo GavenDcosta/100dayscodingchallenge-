@@ -197,6 +197,6 @@ Day 96: Started Making a Music-Website using React
 
 Day 97: Made more progress in my website, it is a website containing Western classical music and anime songs 
 
-DAy 98: Learnt About Match case in Python, Also did more progress in my website 
+Day 98: Learnt About Match case in Python, Also did more progress in my website 
 
 
