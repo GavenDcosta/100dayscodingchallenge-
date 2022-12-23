@@ -201,5 +201,5 @@ Day 98: Learnt About Match case in Python, Also did more progress in my website
 
 Day 99: Started making my website responsive 
 
-Day 100: Finished my first React Project : https://lucent-eclair-21626a.netlify.app/  (Repo name: Music Website)
+Day 100: Finished my first React Project : https://lucent-eclair-21626a.netlify.app/  (Repo: https://github.com/TeddyGaven/Music-Website)
 
