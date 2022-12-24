@@ -203,3 +203,5 @@ Day 99: Started making my website responsive
 
 Day 100: Finished my first React Project : https://lucent-eclair-21626a.netlify.app/  (Repo: https://github.com/TeddyGaven/Music-Website)
 
+Day 101: Learnt about the plotty library of javascript
+
