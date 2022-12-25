@@ -205,3 +205,5 @@ Day 100: Finished my first React Project : https://lucent-eclair-21626a.netlify.
 
 Day 101: Learnt about the plotty library of javascript
 
+Day 102: Started Learning SQL
+
