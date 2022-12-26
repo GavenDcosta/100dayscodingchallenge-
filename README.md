@@ -207,3 +207,5 @@ Day 101: Learnt about the plotty library of javascript
 
 Day 102: Started Learning SQL
 
+Day 103: Learnt some more SQL
+
